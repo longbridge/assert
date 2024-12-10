@@ -1,4 +1,4 @@
-module github.com/longbridgeapp/assert
+module github.com/longbridge/assert
 
 go 1.18
 

@@ -1,6 +1,6 @@
 # Assert
 
-[![Go](https://github.com/longbridgeapp/assert/actions/workflows/go.yml/badge.svg)](https://github.com/longbridgeapp/assert/actions/workflows/go.yml)
+[![Go](https://github.com/longbridge/assert/actions/workflows/go.yml/badge.svg)](https://github.com/longbridge/assert/actions/workflows/go.yml)
 
 > 🍯 Requirement Go 1.18+ for Generics, lower Go version please use 0.x
 
@@ -12,7 +12,7 @@ Extends [stretchr/testify/assert](https://github.com/stretchr/testify/tree/maste
 ## Installation
 
 ```bash
-go get github.com/longbridgeapp/assert
+go get github.com/longbridge/assert
 ```
 
 ## Usage
@@ -21,7 +21,7 @@ go get github.com/longbridgeapp/assert
 package some_test
 
 import (
-  "github.com/longbridgeapp/assert"
+  "github.com/longbridge/assert"
 )
 
 func TestSomeMethod(t *testing.T) {
